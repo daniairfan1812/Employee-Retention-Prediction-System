@@ -18,17 +18,19 @@ In this project, we:
 
 Here is a summary of key insights extracted from the dataset:
 
+## 📊 Exploratory Data Analysis & Visualizations
+
+Here is a summary of key insights extracted from the dataset:
+
 ### 1. Impact of Salary on Employee Retention
 Employees in the **low salary** band show significantly lower retention rates compared to those with high salaries.
 
-![Salary vs Retention](images/salary_vs_retention.png)
+![Salary vs Retention](salary_vs_retention.png)
 
 ### 2. Department-wise Retention
 Retention rates vary across departments, with Sales, Technical, and Support teams facing lower retention overall.
 
-![Department vs Retention](images/department_vs_retention.png)
-
----
+![Department vs Retention](department_vs_retention.png)
 
 ## 🛠️ Machine Learning Workflow
 
